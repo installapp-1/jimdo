@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:08:38	45/45	---M-Z	200	added ('OK')	text/plain	date:Fri,%2018%20Feb%202022%2013:08:37%20GMT	https://installapp-1.jimdosite.com/robots.txt		(from )
+20:08:38	529507/529507	---M-Z	200	added ('OK')	text/html	date:Fri,%2018%20Feb%202022%2013:08:37%20GMT	https://installapp-1.jimdosite.com/	C:/My%20Web%20Sites/install/installapp-1.jimdosite.com/index.html	(from )
+20:08:39	549/549	---M--	200	added ('OK')	image/png	etag:%22fd400ada20e53b4bb4efbbeb0c0e16fd%22	https://jimdo-dolphin-static-assets-prod.freetls.fastly.net/renderer/static/default-website-favicon.1a874ea70dbf3a4b0e0e..png	C:/My%20Web%20Sites/install/jimdo-dolphin-static-assets-prod.freetls.fastly.net/renderer/static/default-website-favicon.1a874ea70dbf3a4b0e0e..png	(from https://installapp-1.jimdosite.com/)
